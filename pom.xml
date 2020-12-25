@@ -13,7 +13,8 @@
         <module>mall-common</module>
         <module>mall-service</module>
         <module>generator</module>
-        <module>manager-web</module>
+        <module>mall-application</module>
+        <module>mall-job</module>
     </modules>
 
 

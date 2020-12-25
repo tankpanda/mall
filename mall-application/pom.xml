@@ -9,11 +9,11 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>manager-web</artifactId>
+    <artifactId>mall-application</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>protal-web</module>
-        <module>job</module>
+        <module>mall-manager-web</module>
+        <module>mall-portal-web</module>
     </modules>
 
 

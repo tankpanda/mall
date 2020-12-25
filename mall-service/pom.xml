@@ -20,7 +20,6 @@
         <module>dictionary-service</module>
         <module>sms-service</module>
         <module>cms-service</module>
-        <module>application</module>
     </modules>
 
 
